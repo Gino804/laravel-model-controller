@@ -1,1 +1,4 @@
-@import '~bootstrap/scss/bootstrap';
+@use "home";
+@use "reset";
+@use "utils";
+@import "~bootstrap/scss/bootstrap";
